@@ -11,11 +11,11 @@
 
 git checkout -b : creates and changes a new branch for you to work on
 
-git push origin "branch name" : pushes the local [repo] (http://www.google.com)to the online (master) repo
+git push origin "branch name" : pushes the local [repo] (http://www.google.com) to the online (master) repo
 
 git add : adds any files/changes to be ready for committing
 
-![Alt text] (https://github.com/robbiealixsantos/phase-0-gps-1/GPS 1.1 teamwork.png)
+![Alt text] (https://github.com/robbiealixsantos/phase-0-gps-1/blob/master/GPS 1.1 teamwork.png)
 
 ````
 <html>
