@@ -1,9 +1,4 @@
-````md
-```<html>
-Hello dbc
-</html>
-```
-````
+
 # phase-0-gps-1
 
 # GPS 1.1
@@ -21,3 +16,10 @@ git push origin "branch name" : pushes the local [repo](http://www.google.com)to
 git add : adds any files/changes to be ready for committing
 
 ![Alt text] (https://github.com/robbiealixsantos/phase-0/blob/master/week-2/imgs/wireframe-index.png)
+
+````md
+<html>
+Hello dbc
+</html>
+```
+````
