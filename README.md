@@ -15,7 +15,7 @@ Hello dbc
 
 *git commit -m : tracks any changes made to the local repo file*
 
-*git checkout -b : creates and changes a new branch for you to work on*
+git checkout -b : creates and changes a new branch for you to work on
 
 git push origin "branch name" : pushes the local [repo](http://www.google.com)to the online (master) repo
 
