@@ -1,16 +1,28 @@
+
+````md
+```<html>
+Hello dbc
+</html>
+```
+````
 # phase-0-gps-1
-GPS 1.1
 
-git clone "REPO URL HERE" : used to clone the repo to the local machine
+# GPS 1.1
 
-git status : making sure you know where you are and as well as the status of the git file
+*git clone "REPO URL HERE" : used to clone the repo to the local machine*
 
-git commit -m : tracks any changes made to the local repo file
+*git status : making sure you know where you are and as well as the status of the git file*
 
-git checkout -b : creates and changes a new branch for you to work on
+*git commit -m : tracks any changes made to the local repo file*
 
-git push origin "branch name" : pushes the local repo to the online (master) repo
+*git checkout -b : creates and changes a new branch for you to work on*
+
+git push origin "branch name" : pushes the local [repo](http://www.google.com)to the online (master) repo
 
 git add : adds any files/changes to be ready for committing
+
+![alt text](http://www.thecanyon.com/assets/css/images/grandcanyon1.jpg)
+
+
 
 
