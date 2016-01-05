@@ -20,4 +20,4 @@ git push origin "branch name" : pushes the local [repo](http://www.google.com)to
 
 git add : adds any files/changes to be ready for committing
 
-![Alt text] (http://www.thecanyon.com/assets/css/images/grandcanyon1.jpg)
+![Alt text] (https://github.com/robbiealixsantos/phase-0/blob/master/week-2/imgs/wireframe-index.png)
